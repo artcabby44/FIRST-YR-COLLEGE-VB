@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication15", "WindowsApplication15\WindowsApplication15.vbproj", "{BFC9DD35-8057-4BC6-B2C5-68A68BD9067E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC9DD35-8057-4BC6-B2C5-68A68BD9067E}.Debug|x86.ActiveCfg = Debug|x86
+		{BFC9DD35-8057-4BC6-B2C5-68A68BD9067E}.Debug|x86.Build.0 = Debug|x86
+		{BFC9DD35-8057-4BC6-B2C5-68A68BD9067E}.Release|x86.ActiveCfg = Release|x86
+		{BFC9DD35-8057-4BC6-B2C5-68A68BD9067E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

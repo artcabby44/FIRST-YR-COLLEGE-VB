@@ -1,0 +1,38 @@
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form1.resources
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Resources.resources
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.exe
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.xml
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.pdb
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form2.resources
+C:\Users\PC-04\Documents\Visual Studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form3.resources
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.exe
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.xml
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.pdb
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form1.resources
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form2.resources
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form3.resources
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Resources.resources
+C:\Users\HP-09\Desktop\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.exe
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.xml
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.pdb
+D:\ORDERING SYSTEM\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+D:\ORDERING SYSTEM\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+D:\ORDERING SYSTEM\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form1.resources
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form2.resources
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form3.resources
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Resources.resources
+D:\ORDERING SYSTEM\WindowsApplication15\obj\x86\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+D:\ORDERING SYSTEM\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+E:\Flashdrive backup\ORDERING SYSTEMA\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+E:\Flashdrive backup\ORDERING SYSTEMA\WindowsApplication15\obj\x86\Debug\WindowsApplication15.exe
+E:\Flashdrive backup\ORDERING SYSTEMA\WindowsApplication15\obj\x86\Debug\WindowsApplication15.xml
+E:\Flashdrive backup\ORDERING SYSTEMA\WindowsApplication15\obj\x86\Debug\WindowsApplication15.pdb

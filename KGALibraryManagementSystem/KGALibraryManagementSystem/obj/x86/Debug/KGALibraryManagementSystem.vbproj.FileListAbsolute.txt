@@ -1,0 +1,39 @@
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.exe.config
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.exe
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.xml
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form1.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Issue.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Membership.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Resources.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Return_reissue.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.vbproj.GenerateResource.Cache
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.exe
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.xml
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Login.resources
+c:\users\trojan\documents\visual studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Booklistvb.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form2.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form3.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Admin.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form4.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.exe.config
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.exe
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.xml
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.pdb
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.exe
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.pdb
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\bin\Debug\KGALibraryManagementSystem.xml
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Admin.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Admine.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Booklistvb.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form1.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form2.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.form3.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Form4.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Issue.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Login.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Membership.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.Resources.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.return_reissue.resources
+C:\Users\TROJAN\Desktop\KGALibraryManagementSystem\KGALibraryManagementSystem\obj\x86\Debug\KGALibraryManagementSystem.vbproj.GenerateResource.Cache

@@ -1,0 +1,201 @@
+
+SEARCH:
+JimzBindingSource.Filter = String.Format("[name] Like '{0}%'", Me.TextBox1.Text.Trim())
+
+TOPVARIABLE:
+Imports MySql.Data.MySqlClient
+Public Class Form1
+    Public sql As New Class1
+    Public qry As String
+    Public cmd As New MySqlCommand
+    Public dr As MySqlDataReader
+
+CLASSCON:
+    Public con As New MySqlConnection With {.ConnectionString = "server=localhost;user id=root;database=jimz"}
+
+DATAGRID:
+ Dim row As DataGridViewRow = DataGridView1.CurrentRow
+        Try
+
+            TextBox1.Text = row.Cells(0).Value.ToString
+            TextBox7.Text = row.Cells(0).Value.ToString
+            TextBox6.Text = row.Cells(1).Value.ToString
+            TextBox2.Text = row.Cells(2).Value.ToString
+            TextBox4.Text = row.Cells(3).Value.ToString
+            TextBox3.Text = row.Cells(4).Value.ToString
+            TextBox5.Text = row.Cells(5).Value.ToString
+
+        Catch ex As Exception
+        End Try
+
+        Form_Load(sender, e)
+
+ADD:
+
+    sql.con.Close()
+
+
+            Try
+                sql.con.Open()
+                qry = "INSERT INTO jimz (name,yrsec,sn,pcnum,date,time) VALUES (@name,@yrsec,@sn,@pcnum,@date,@time)"
+                cmd = New MySqlCommand(qry, sql.con)
+                cmd.Parameters.AddWithValue("@name", Form1.TextBox1.Text)
+                cmd.Parameters.AddWithValue("@yrsec", Form1.TextBox2.Text)
+                cmd.Parameters.AddWithValue("@sn", Form1.TextBox3.Text)
+                cmd.Parameters.AddWithValue("@pcnum", ComboBox1.SelectedItem)
+                cmd.ExecuteNonQuery()
+
+
+            Catch ex As Exception
+                MsgBox(ex.Message)
+
+            End Try
+            MsgBox("Thank you " & Form1.TextBox1.Text & " you can now use " & ComboBox1.SelectedItem)
+            Form2_Load(sender, e)
+
+DELETE:
+
+  	 Dim cmd As MySqlCommand
+
+        sql.con.Close()
+        Try
+            sql.con.Open()
+            cmd = sql.con.CreateCommand()
+            cmd.CommandText = "DELETE FROM jimz WHERE sn=@sn;"
+            cmd.Parameters.AddWithValue("@sn", TextBox3.Text)
+
+
+            cmd.ExecuteNonQuery()
+
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+
+        End Try
+
+        Form3_Load(sender, e)
+
+UPDATE:
+
+  sql.con.Close()
+
+        Try
+            sql.con.Open()
+
+            qry = "UPDATE jimz SET name=@name,yrsec=@yrsec,sn=@sn,pcnum=@pcnum,date=@date,time=@time WHERE sn=@sn"
+            cmd = New MySqlCommand(qry, sql.con)
+
+            cmd.Parameters.AddWithValue("@name", TextBox2.Text)
+            cmd.Parameters.AddWithValue("@yrsec", TextBox4.Text)
+            cmd.Parameters.AddWithValue("@sn", TextBox3.Text)
+            cmd.Parameters.AddWithValue("@pcnum", TextBox5.Text)
+            cmd.Parameters.AddWithValue("@date", TextBox7.Text)
+            cmd.Parameters.AddWithValue("@time", TextBox6.Text)
+            cmd.ExecuteNonQuery()
+
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+
+        End Try
+        Form3_Load(sender, e)
+
+ACCOUNT:
+    My.Settings.username = Usertxt.Text
+        My.Settings.password = passtxt.Text
+        My.Settings.Save()
+        Form3.Show()
+ATTEMP:
+ Dim attemp As Integer = 1
+   If TextBox1.Text = My.Settings.Username And
+            TextBox2.Text = My.Settings.Password Then
+            Form2.Show()
+
+        ElseIf attemp = 3 Then
+            MsgBox("Maximum number o attemp is 3,Program will now close")
+            Me.Close()
+
+
+
+        Else
+            MsgBox("Username or Email is incorrect!")
+            attemp = attemp + 1
+            TextBox1.Text = ""
+            TextBox2.Text = ""
+            TextBox1.Focus()
+
+image:
+  Dim id As String = "Filename"
+        Dim f As String = "C:\Users\TROJAN\Pictures\Screenshots"
+        Dim file As String = System.IO.Path.Combine(f, id & ".jpg")
+        PictureBox1.Image = Image.FromFile(file)
+
+Log in
+_________________________________________________________________________________________________________________________
+   Dim command As MySqlCommand = New MySqlCommand( _
+                   "SELECT * FROM log WHERE name = '" & _
+                   TextBox1.Text & "' AND passw = '" & TextBox2.Text & "' ", sql.con)
+
+        sql.con.Open()
+        Dim sdr As MySqlDataReader = command.ExecuteReader()
+        If (sdr.Read() = True) Then
+            MessageBox.Show("You are Now Logged In")
+            sql.con.Close()
+        Else
+            MessageBox.Show("Invalid Username or Password!")
+            sql.con.Close()
+        End If
+
+    End Sub
+
+--------------------------------------------------------------------------
+ Try
+            sql.con.Open()
+
+            qry = "UPDATE benk SET account = account - @acc WHERE id=@id"
+            cmd = New MySqlCommand(qry, sql.con)
+
+            cmd.Parameters.AddWithValue("@id", TextBox1.Text)
+            cmd.Parameters.AddWithValue("@acc", TextBox2.Text)
+    
+            cmd.ExecuteNonQuery()
+
+
+        Catch ex As Exception
+            MsgBox("book")
+
+        End Try
+----------------------------------------------------------------
+
+  Dim r As New Random
+        Dim s As String
+        Dim t As String
+        Dim u As String
+        Dim v As String
+
+   s = (Convert.ToString(r.Next(1000, 2000)))
+            t = (Convert.ToString(r.Next(5000, 6000)))
+            u = (Convert.ToString(r.Next(9000, 10000)))
+            v = (Convert.ToString(r.Next(1000, 9000)))
+
+            auto = s & " " & t & " " & u & " " & v
+-----------------------------------------------------------------------------
+
+   Dim isave As New SaveFileDialog
+        isave.Filter = "txt files (*.txt) | *.txt "
+        isave.FilterIndex = 2
+        isave.RestoreDirectory = False
+
+        If isave.ShowDialog() = DialogResult.OK Then
+            IO.File.WriteAllText(isave.FileName, TextBox1.Text)
+        End If
+------------------------------------------------------------------------------
+
+Dim result As String
+
+        result = MessageBox.Show("Are you sure you want to exit ?", "System", MessageBoxButtons.OKCancel, MessageBoxIcon.Question)
+
+        If result = DialogResult.OK Then
+            Me.Close()
+
+        End If

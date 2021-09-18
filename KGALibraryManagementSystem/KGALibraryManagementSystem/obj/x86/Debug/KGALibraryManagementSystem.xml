@@ -1,0 +1,544 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KGALibraryManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:KGALibraryManagementSystem.libraDataSet.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.adminsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.booksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.gumamitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.adminsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.booksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.gumamitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.adminsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.booksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.gumamitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.adminsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.booksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.gumamitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(KGALibraryManagementSystem.libraDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(KGALibraryManagementSystem.libraDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(KGALibraryManagementSystem.libraDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.UpdateAll(KGALibraryManagementSystem.libraDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KGALibraryManagementSystem.libraDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:KGALibraryManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KGALibraryManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:KGALibraryManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

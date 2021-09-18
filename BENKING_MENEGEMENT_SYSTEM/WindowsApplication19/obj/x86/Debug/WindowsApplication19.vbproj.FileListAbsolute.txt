@@ -1,0 +1,36 @@
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form2.resources
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe.config
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form3.resources
+c:\users\trojan\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form1.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form5.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form6.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form7.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form8.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\bin\Debug\WindowsApplication19.exe.config
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form1.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form2.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form3.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form5.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form6.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form7.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form8.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form9.resources
+C:\Users\TROJAN\Desktop\BENKING_MENEGEMENT_SYSTEM\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form10.resources

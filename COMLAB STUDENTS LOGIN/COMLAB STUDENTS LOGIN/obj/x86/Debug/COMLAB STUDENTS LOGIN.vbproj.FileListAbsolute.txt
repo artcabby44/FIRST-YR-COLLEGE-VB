@@ -1,0 +1,19 @@
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\bin\Debug\COMLAB STUDENTS LOGIN.exe
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\bin\Debug\COMLAB STUDENTS LOGIN.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\bin\Debug\COMLAB STUDENTS LOGIN.xml
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form1.resources
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Resources.resources
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.vbproj.GenerateResource.Cache
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.exe
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.xml
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.pdb
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form2.resources
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\bin\Debug\COMLAB STUDENTS LOGIN.exe.config
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form3.resources
+c:\users\trojan\documents\visual studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form4.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form5.resources
+C:\Users\TROJAN\Documents\Visual Studio 2010\Projects\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB_STUDENTS_LOGIN.Form6.resources
+E:\Softwares forms\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\bin\Debug\COMLAB STUDENTS LOGIN.exe.config
+E:\Softwares forms\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.exe
+E:\Softwares forms\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.xml
+E:\Softwares forms\COMLAB STUDENTS LOGIN\COMLAB STUDENTS LOGIN\obj\x86\Debug\COMLAB STUDENTS LOGIN.pdb
